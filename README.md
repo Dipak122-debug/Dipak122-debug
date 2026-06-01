@@ -39,6 +39,7 @@
 ### 🤖 AI / GenAI (Exploring)
 ![Generative AI](https://img.shields.io/badge/GenerativeAI-FF6F00?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![Retrieval Augmented Generation](https://img.shields.io/badge/Retrieval--Augmented--Generation-RAG-00C853?style=for-the-badge)
 
 ---
 
